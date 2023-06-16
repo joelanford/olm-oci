@@ -54,6 +54,7 @@ const (
 
 	MediaTypeProperties  = "application/vnd.cncf.operatorframework.olm.properties.v1+yaml"
 	MediaTypeConstraints = "application/vnd.cncf.operatorframework.olm.constraints.v1+yaml"
+	MediaTypeAnnotations = "application/vnd.cncf.operatorframework.olm.annotations.v1+yaml"
 )
 
 var (
